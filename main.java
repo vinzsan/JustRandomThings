@@ -1,7 +1,11 @@
 //Okay idk
+import java.util.Scanner;
+
 public class main{
      public static void main(String[]args)
      {
-       System.out.println("Vinz");
+       Scanner scan = new Scanner(System.in);
+        String a = scan.nextLine();
+       System.out.println(a);
      }
 }
