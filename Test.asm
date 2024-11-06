@@ -24,4 +24,5 @@ halt:
 
   str db 'Aku Hitam',0
 
-times 
+times 510 - ($ - $$) db 0
+dw 0x0AA55
