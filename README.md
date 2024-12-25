@@ -26,7 +26,7 @@ Welcome to my NASM 32-bit assembly language project repository! 🚀 This reposi
    ```
 
 ## 🌟 Highlights
-<img src="(https://github.com/user-attachments/assets/9eea9166-bf55-4f52-9876-477adce9252d)"></img>
+!<img src="(https://github.com/user-attachments/assets/9eea9166-bf55-4f52-9876-477adce9252d)">
 
 ## 📜 License
 Project ini dibawah naungan lisensi [MIT License](LICENSE).
