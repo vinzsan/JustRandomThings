@@ -1,6 +1,7 @@
 # NASM 32-bit Projects By Vinzsan
 
 Welcome to my NASM 32-bit assembly language project repository! 🚀 This repository showcases various programs and experiments created with the Netwide Assembler (NASM) targeting a 32-bit architecture.
+[https://github.com/user-attachments/assets/9eea9166-bf55-4f52-9876-477adce9252d)]
 
 ## 🛠️ Features
 - **Efficient Assembly Code:** Explore well-documented, optimized assembly programs.
@@ -25,8 +26,7 @@ Welcome to my NASM 32-bit assembly language project repository! 🚀 This reposi
    ./program_kalian
    ```
 
-## 🌟 Highlights
-!<img src="(https://github.com/user-attachments/assets/9eea9166-bf55-4f52-9876-477adce9252d)">
+## 🌟 Highlig
 
 ## 📜 License
 Project ini dibawah naungan lisensi [MIT License](LICENSE).
