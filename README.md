@@ -2,6 +2,7 @@
 
 Welcome to my NASM 32-bit assembly language project repository! 🚀 This repository showcases various programs and experiments created with the Netwide Assembler (NASM) targeting a 32-bit architecture.
 <br>
+## My Wife.
 <img src="https://github.com/user-attachments/assets/9eea9166-bf55-4f52-9876-477adce9252d"></img>
 
 ## 🛠️ Features
@@ -26,8 +27,6 @@ Welcome to my NASM 32-bit assembly language project repository! 🚀 This reposi
    ```bash
    ./program_kalian
    ```
-
-## 🌟 Highlig
 
 ## 📜 License
 Project ini dibawah naungan lisensi [MIT License](LICENSE).
