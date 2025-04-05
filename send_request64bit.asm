@@ -92,8 +92,7 @@ main:
 	mov rdi,[rbp - 16]
 	syscall
 
-	mov rsp,rbp
-	pop rbp
+	leave
 
 	mov rax,60
 	xor rdi,rdi
